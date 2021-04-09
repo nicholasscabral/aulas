@@ -1,0 +1,9 @@
+METODOS HTTP
+
+get: recebe dados, "recebe uma pagina"
+
+post: fornece dados, ex: cadastrar usuario (formulario)
+
+delete: deletar um registro
+
+put: modificar um registro
